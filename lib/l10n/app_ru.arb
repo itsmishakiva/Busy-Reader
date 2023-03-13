@@ -1,0 +1,17 @@
+{
+    "appTitle" : "Busy Reader",
+    "recs" : "Рекомендации",
+    "redactionChoice" : "Выбор редакции",
+    "allBooks" : "Все книги",
+    "home" : "Главная",
+    "search" : "Поиск",
+    "saved" : "Избранное",
+    "addToSaved" : "Добавить в избранное",
+    "removeSaved" : "Убрать из избранного",
+    "account" : "Профиль",
+    "accountInfo" : "Введите своё имя и при желании добавьте фото профиля",
+    "name" : "Имя",
+    "surname" : "Фамилия",
+    "email" : "Email",
+    "phone" : "Номер телефона"
+}
